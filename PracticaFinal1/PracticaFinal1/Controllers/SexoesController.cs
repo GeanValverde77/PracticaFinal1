@@ -31,7 +31,7 @@ namespace PracticaFinal1.Controllers
             if (numero < 0)
                 return "ERROR";
             if (numero == 0)
-                return "Realizado por Gean Valverde";
+                return "Realizado por Yan Valverde";
             return "Usted ingreso el numero " + numero.ToString();
         }
         // GET: api/Sexoes/5
